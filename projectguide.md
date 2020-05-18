@@ -20,7 +20,7 @@ Each member should own one focus area and be able to complete the associated tas
 
 The role of project mentor is to provide guidance on your project proposal, and to make sure you are on the right track in your milestones and final presentation and report.
 
-Please fill up the [online form](http://bit.ly/2JA0iw8) of your project team members.
+Please fill up the [online form](https://forms.gle/XLcWeJNWDmm4FyKV8) of your project team members.
 
 ## Deliverables and Assessment Components
 
