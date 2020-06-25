@@ -101,9 +101,9 @@ The project teams will be grouped into either group A or group B, each jointly s
 |Mr. Mar Kheng Kok|mar_kheng_kok@nyp.edu.sg|6550-1647|Group A|
 |Mr. Lee Chit Boon|lee_chit_boon@nyp.edu.sg   |   6550-1630| Group A  |
 |Mr. Lee Ching Yuh |lee_ching_yuh@nyp.edu.sg   | 6550-1620 |  Group A |
-|Dr. Francis Fung|francis_fung@nyp.edu.sg  |6550-0591   | Group A  |
-|Mr. Law Chee Yong| law_chee_yong@nyp.edu.sg  | 6550-1650  |  Group B |
+|Mr. Law Chee Yong| law_chee_yong@nyp.edu.sg  | 6550-1650  |  Group A |
 |Mr. Wee Chee Hong|wee_chee_hong@nyp.edu.sg   | 6550-1754 |  Group B |
+|Dr. Francis Fung|francis_fung@nyp.edu.sg  |6550-0591   | Group B  |
 |Ms. Jasmine Ng   |jasmine_ng@nyp.edu.sg   |6550-1763   | Group B  |
 |Mr. Tin Aung Win|tin_aung_win@nyp.edu.sg   | 6550-1752  |  Group B |
 
