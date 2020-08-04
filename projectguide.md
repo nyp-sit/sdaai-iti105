@@ -111,13 +111,13 @@ The project teams will be grouped into either group A or group B, each jointly s
 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
-|13|  | **15-Jul-19**<br/> Project Initiation /Discussion <br/>(ALL) ||
-|14|  | **22-Jul-19**<br/> Project Proposal Submission<br/>(LCB-WCH) ||
-|15|  | **29-Jul-19**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
-|16|  | **5-Aug-19**<br/>Project Dev / Consultation<br/>(LCB-TAW) ||
-|17|  | **12-Aug-19**<br/>Milestone Submission<br/>(MKK-JN) ||
-|18|**17-Aug-19**<br/>Project Dev / Consultation<br/>(FF-LCY)|**19-Aug-19**<br/>Project Dev / Consultation<br/>(LeeCY-WCH)|**20-Aug-19**<br/>Project Dev / Consultation<br/>(MKK-TAW)|
-|19|**24-Aug-19**<br/>Project Dev / Consultation<br/>(FF-LCY)|**26-Aug-19**<br/>Project Presentation<br/>(ALL)| |
+|13|  | **15-Jul-20**<br/> Project Initiation /Discussion <br/>(ALL) ||
+|14|  | **22-Jul-20**<br/> Project Proposal Submission<br/>(LCB-WCH) ||
+|15|  | **29-Jul-20**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
+|16|  | **5-Aug-20**<br/>Project Dev / Consultation<br/>(LCB-TAW) ||
+|17|  | **12-Aug-20**<br/>Milestone Submission<br/>(MKK-JN) ||
+|18|**17-Aug-20**<br/>Project Dev / Consultation<br/>(FF-LCY)|**19-Aug-20**<br/>Project Dev / Consultation<br/>(LeeCY-WCH)|**20-Aug-20**<br/>Project Dev / Consultation<br/>(MKK-TAW)|
+|19|**24-Aug-20**<br/>Project Dev / Consultation<br/>(FF-LCY)|**26-Aug-20**<br/>Project Presentation<br/>(ALL)| |
 
 **Legends**
 
