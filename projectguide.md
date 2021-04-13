@@ -103,7 +103,7 @@ The project teams will be grouped into either group A or group B, each jointly s
 |Mr. Lee Ching Yuh |lee_ching_yuh@nyp.edu.sg   | 6550-1620 |  Group A |
 |Mr. Law Chee Yong| law_chee_yong@nyp.edu.sg  | 6550-1650  |  Group A |
 |Mr. Wee Chee Hong|wee_chee_hong@nyp.edu.sg   | 6550-1754 |  Group B |
-|Dr. Francis Fung|francis_fung@nyp.edu.sg  |6550-0591   | Group B  |
+|Dr. Zhao Zhiqiang |zhao_zhiqiang@nyp.edu.sg  |6550-0921   | Group B  |
 |Ms. Jasmine Ng   |jasmine_ng@nyp.edu.sg   |6550-1763   | Group B  |
 |Mr. Tin Aung Win|tin_aung_win@nyp.edu.sg   | 6550-1752  |  Group B |
 
@@ -111,13 +111,13 @@ The project teams will be grouped into either group A or group B, each jointly s
 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
-|13|  | **15-Jul-20**<br/> Project Initiation /Discussion <br/>(ALL) ||
-|14|  | **22-Jul-20**<br/> Project Proposal Submission<br/>(LCB-WCH) ||
-|15|  | **29-Jul-20**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
-|16|  | **5-Aug-20**<br/>Project Dev / Consultation<br/>(LCB-TAW) ||
-|17|  | **12-Aug-20**<br/>Milestone Submission<br/>(MKK-JN) ||
-|18|**17-Aug-20**<br/>Project Dev / Consultation<br/>(FF-LCY)|**19-Aug-20**<br/>Project Dev / Consultation<br/>(LeeCY-WCH)|**20-Aug-20**<br/>Project Dev / Consultation<br/>(MKK-TAW)|
-|19|**24-Aug-20**<br/>Project Dev / Consultation<br/>(FF-LCY)|**26-Aug-20**<br/>Project Presentation<br/>(ALL)| |
+|13|  | **14-Jul-21**<br/> Project Initiation /Discussion <br/>(ALL) ||
+|14|  | **21-Jul-21**<br/> Project Proposal Submission<br/>(LCB-WCH) ||
+|15|  | **28-Jul-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
+|16|  | **4-Aug-21**<br/>Project Dev / Consultation<br/>(LCB-TAW) ||
+|17|  | **11-Aug-21**<br/>Milestone Submission<br/>(MKK-JN) ||
+|18|**16-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-LCY)|**18-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-WCH)|**19-Aug-21**<br/>Project Dev / Consultation<br/>(MKK-TAW)|
+|19|**23-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-LCY)|**25-Aug-21**<br/>Project Presentation<br/>(ALL)| |
 
 **Legends**
 
@@ -129,4 +129,4 @@ The project teams will be grouped into either group A or group B, each jointly s
 - JN - Ms. Jasmine Ng
 - TAW - Mr. Tin Aung Win
 - LeeCY - Mr. Lee Ching Yuh
-- FF - Dr. Francis Fung
+- ZZQ - Dr. Zhao Zhiqiang
