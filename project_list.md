@@ -1,4 +1,4 @@
-The following is the list of problems you can work on:
+The following is the list of problems you can work on (subject to changes):
 
 1. Healthcare
     *  More and more people wanting to age in place and maintain their independence as long as possible. Being able to keep track of the activities of daily living (ADL) is important for healthcare professionals and caregivers to ensure the safety and quality of life for these elderly group of people.
@@ -18,3 +18,6 @@ The following is the list of problems you can work on:
 
 5. Financial/Commerce
     * As part of Smart Nation initiative, businesses and consumers alike are increasingly using digital payment for their daily transactions. Along with this transformation, there is a corresponding increase in financial frauds committed with the various e-payment systems. With the sheer volume of the transactions and increasingly sophisticated methods employed by the fraudsters, manual detection or static rule-based fraud detection system will no longer be sufficient.
+
+
+If you want to propose a *new problem* to work on, please approach your project mentors to seek their advice and approval.
