@@ -16,7 +16,7 @@ In this module, you will implement a practical machine learning system that solv
 
 You are expected to form a project team of 3 to 4 members. Each team will be assigned a project mentor.
 
-Each member should own one focus area and be able to complete the associated tasks independently. Marks will be deducted for individuals who rely heavily on others to complete their tasks.
+Each member should own one focus area (e.g. ML model experimentation, feature engineering, etc) and be able to complete the associated tasks independently. Marks will be deducted for individuals who rely heavily on others to complete their tasks.
 
 The role of project mentor is to provide guidance on your project proposal, and to make sure you are on the right track in your milestones and final presentation and report.
 
@@ -30,8 +30,8 @@ This project consists of the following assessment components:
 |----|---|---|---|
 |Project Proposal|10%||10%|
 |Milestones|10%|15%|25%|
-|Final Presentation|10%|20%|30%|
-|Final Report|5%|30%|35%|
+|Final Presentation|10%|25%|35%|
+|Final Report|10%|20%|30%|
 
 ## Project Proposal
 
@@ -76,7 +76,7 @@ It should include:
 
 ### Format
 
-Final project report should not be more than 8 pages (including appendices and figures).
+Final project report **should not be more** than 12 pages (including appendices and figures).
 Here's more detailed guidelines with a [rough outline](final-report-guidelines.pdf) of what we expect to see in the final report.
 
 ### Contributions
