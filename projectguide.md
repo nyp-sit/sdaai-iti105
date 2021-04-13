@@ -30,8 +30,8 @@ This project consists of the following assessment components:
 |----|---|---|---|
 |Project Proposal|10%||10%|
 |Milestones|10%|15%|25%|
-|Final Presentation|10%|25%|35%|
-|Final Report|10%|20%|30%|
+|Final Presentation|10%|30%|40%|
+|Final Report|10%|15%|25%|
 
 ## Project Proposal
 
