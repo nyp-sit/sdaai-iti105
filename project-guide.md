@@ -35,7 +35,7 @@ This project consists of the following assessment components:
 
 ## Project Proposal
 
-In the project proposal, your team will pick a problem from the given **[list of projects](./project_list.md)**, formulating it as a machine learning problem to work on early and receive feedback from project mentors.
+In the project proposal, your team will pick a problem from the given **[list of projects](./project-list.md)**, formulating it as a machine learning problem to work on early and receive feedback from project mentors.
 
 Once you have identified the problem, it can be useful to research on some prior work or research on the related topics. Another important aspect of your project is to identify one or several datasets suitable for your chosen problem. If that data needs considerable pre-processing  to suit your task, or that you intend to collect the needed data yourself, bear in mind that data collection is only one part of the entire project scope, but can often take up sizeable amount of time. You are still expected to have solid methodology and discussion of results, so pace your project accordingly.
 
