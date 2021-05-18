@@ -96,8 +96,8 @@ During final presentation, you will be jointly assessed by more than one supervi
 
 The project teams will be jointly supervised by a group of project mentors. The project mentors and the contact info are listed below.
 
-|Name|Email|Phone|Group|
-|---|---|---|---|
+|Name|Email|Phone|
+|---|---|---|
 |Mr. Mar Kheng Kok|mar_kheng_kok@nyp.edu.sg|6550-1647|
 |Mr. Lee Ching Yuh |lee_ching_yuh@nyp.edu.sg   | 6550-1620 |
 |Mr. Law Chee Yong| law_chee_yong@nyp.edu.sg  | 6550-1650 |
