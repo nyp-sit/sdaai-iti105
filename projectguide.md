@@ -110,8 +110,8 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
-|13|  | **14-Jul-21**<br/> Project Initiation /Discussion <br/>(MKK-WCH) ||
-|14|  | **21-Jul-21**<br/> Project Proposal Submission<br/>(LeeCY-JN) ||
+|13|  | **14-Jul-21**<br/> Project Initiation /Discussion <br/>(MKK-LeeCY) ||
+|14|  | **21-Jul-21**<br/> Project Proposal Submission<br/>(WCH-JN) ||
 |15|  | **28-Jul-21**<br/>Project Dev / Consultation<br/>(MKK-TAW) ||
 |16|  | **4-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
 |17|  | **11-Aug-21**<br/>Milestone Submission<br/>(WCH-TAW) ||
