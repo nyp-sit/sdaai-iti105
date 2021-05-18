@@ -20,7 +20,7 @@ Each member should own one focus area (e.g. ML model experimentation, feature en
 
 The role of project mentor is to provide guidance on your project proposal, and to make sure you are on the right track in your milestones and final presentation and report. 
 
-Please fill up the [online form](https://forms.gle/XLcWeJNWDmm4FyKV8) of your project team members.
+Please fill up the [online form](https://forms.gle/7ejrGV6KRLNgbDX36) of your project team members.
 
 ## Deliverables and Assessment Components
 
@@ -41,23 +41,23 @@ Once you have identified the problem, it can be useful to research on some prior
 
 Your project proposal should include the following information:
 
-- Formulation: What problem are you going solve? How do you frame it as machine learning problem?
-- Method: What machine learning techniques are you planning to apply?
-- Intended experiments: What experiments are you planning to run? How do you plan to evaluate your machine learning algorithm?
-
-Please also include pointers to one relevant dataset and one example of prior research on the topic in your project proposal.
+- Formulation: What problem are you going solve? What are the appropriate metrics  to use to measure success? How do you frame it as machine learning problem? 
+- Dataset: What kind of data you need and how do you plan to collect them? If it is some existing dataset, include reference to the dataset and provide some discussion how the data was collected. 
+- Methods: What kind of ML approach are you planning to use? 
+- Intended experiments: What experiments are you planning to run? How do you plan to evaluate your machine learning models?
+- Deployment: How do you intend to use the model? Provide an overview of how the model is used in the overall solution.
 
 
 ### Datasets
 
-While we do not expect you to have to spend too much time collecting raw data, the process of inspecting and visualizing the data, trying out different types of preprocessing, and doing error analysis is often an important part of machine learning. Hence if you choose to use pre-prepared datasets (e.g. from Kaggle, the UCI machine learning repository, etc.) you are strongly encouraged to do some data exploration and analysis to get familiar with the problem. You are also expected to understand the approach and the techniques used to collect the data, even if you are **NOT** actually doing it.
+While we do not expect you to have to spend too much time collecting raw data, the process of inspecting and visualizing the data, trying out different types of preprocessing, and doing error analysis is often an important part of machine learning. Hence if you choose to use pre-prepared datasets (e.g. from Kaggle, the UCI machine learning repository, Google Datasets.) you are strongly encouraged to do some data exploration and analysis to get familiar with the problem. You are also expected to understand the approach and the techniques used to collect the data, even if you are **NOT** actually doing it.
 
 ## Milestones
-The Milestone report will help to make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. It should be written as an **“early draft"** of your final report so that you can re-use most of the milestone content in your final report. 
+The Milestone report should describe what you've accomplished so far, and very briefly say what else you plan to do. It should be written as an **“early draft"** of your final report so that you can re-use most of the milestone content in your final report. The milestone report will serve as checkpoint for us to know if you are on the right track and making good progress.
 
 Your milestone report (and final report) should focus on the problem to be solved, and provides discussion on experimental results and comparisons, etc. and should not be a tutorial/lecture on what SVM is, e.g.
 
-Please include a section that describes what each team member worked on and contributed to the project. This is to make sure team members are carrying a fair share of the work for projects. If you have any concerns working with one of your project teammates, please fill out the optional teammate evaluation form (only seen by the teaching staff).
+Please include a section that describes what each team member worked on and contributed to the project. This is to make sure team members are carrying a fair share of the work for projects. If you have any concerns working with one of your project teammates, please fill out the optional [teammate evaluation form](https://forms.gle/BX94y9PvGBbip1oP6) (only seen by the teaching staff). Please do not wait until last minute to raise your concerns. 
 
 ### Grading
 
@@ -65,19 +65,26 @@ The milestone is mostly intended to get feedback from project mentors to make su
 
 ### Format
 
-It should include:
+Your milestone report should not be more than 12 pages, excluding references, and should include the following:
 
-- Motivation: What problem are you tackling, and what's the setting you're considering?
+- Data: What kind of analysis and exploration you have done? What are the data preparation you have done?
 - Method: What machine learning techniques have you tried and why?
 - Preliminary experiments: Describe the experiments that you've run, the outcomes, and any error analysis that you've done. You should have tried at least one baseline.
 - Next steps: Given your preliminary results, what are the next steps that you're considering?
+
+### Experimental Log
+
+You need to maintain an experimental log that captures ALL the experiments you have run (e.g. the different experimental parameters you have tried,  the results, and the error analysis.). This log will be helpful for you to understand what works and what does not. It also helps us to verify your work. It is no good to just report that you have tried MANY different models but cannot provide any discussion/proof on any of the models.
 
 ## Final Report
 
 ### Format
 
-Final project report **should not be more** than 12 pages (including appendices and figures).
+Final project report should not be more than 12 pages, excluding references.
 Here's more detailed guidelines with a [rough outline](final-report-guidelines.pdf) of what we expect to see in the final report.
+
+### Experimental Log
+You need to maintain an experimental log that captures ALL the experiments you have run (e.g. the different experimental parameters you have tried,  the results, and the error analysis.). This log will be helpful for you to understand what works and what does not. It also helps us to verify your work. It is no good to just report that you have tried MANY different models but cannot provide any discussion/proof on any of the models.
 
 ### Contributions
 Please include a section that describes what each team member worked on and contributed to the project. If you have any concerns working with one of your project teammates, you can also fill out this optional teammate evaluation form (only seen by the teaching staff). We may reach out and factor in contributions and evaluations when assigning project grades.
@@ -88,14 +95,6 @@ Please include a zip file or preferably a link to a Github repository with the c
 ### Grading
 The final report will be judged based on the clarity of the report, the relevance of the project to topics taught in PDC1, the technical soundness of the methodology and algorithms used, and the quality of discussion of the experimental results.
 
-#### Grading Rubrics
-|      | Need Improvment| Satisfactory| Good | Excellent   |
-|---|----|-------|-----|---------|
-| Dataset | No proper dataset is used. e.g. aggregated data, insufficient data | Using proper data set. However data only come from referenced base model. No third-party dataset nor self-generated dataset is used.| Using proper dataset. Third-party dataset or self-generate dataset is used. However the dataset are in-balanced or not preprocessed or not augmented to fit with the base model data set. Third-party dataset or self-generated dataset is only used in testing/cross-validation but not in training and vice versa.| Using proper dataset. Third-party dataset or self-generate dataset is used with a good balance w.r.t to the base model dataset. Third-party dataset or self-generated dataset are preprocessed and augmented to fit with the base model dataset.  Third-party dataset or self-generated dataset is used in training/cross-validation/testing |
-| Model Architecture | Improper use of model architecture. | Proper use of model architecture. However there are issues in applying the model architecture.  | Proper use of model architecture. There is no issues in applying the model architecture. However the model architecture is isomorphic to the the base model. |  Proper use of model architecture. There is no issues in applying the model architecture. There is approriate customization/extension to the base model to accomodate the training task. |
-| Model Tuning | No Tuning | There is minimum tuning with a limited set of hyper parameters. There is no good justification on how the tuning is performed. | There is some tuning with a reasonable set of hyper parameters. There is  good justification on how the tuning is performed. However the end model is not yet optimized w.r.t. human level performance | There is thorough process of tuning with a reasonable set of hyper parameters. There is sound justification on how the tuning is performed. The end model is well optimized w.r.t. human level performance |
-| Deployment  | No deployment | There is some level of attempt to deploy the model into the target platform. | The developed model is deployed to the target platform. However the process is crude or lack of automation. | The developed model is deployed into the target plaform systematically (or automatically) |
-| Report | Poorly written. Lack of content | Well written. The content is not well structured | Well written. The content is well structured but lack of depth and details of the core components. | Well written. The content is well structured with concised information without sacrificing details and depth. |
 
 ## Final Presentation
 
