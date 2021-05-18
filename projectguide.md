@@ -14,11 +14,11 @@ In this module, you will implement a practical machine learning system that solv
 
 ## Project Team
 
-You are expected to form a project team of 3 to 4 members. Each team will be assigned a project mentor.
+You are expected to form a project team of 3 to 4 members. 
 
 Each member should own one focus area (e.g. ML model experimentation, feature engineering, etc) and be able to complete the associated tasks independently. Marks will be deducted for individuals who rely heavily on others to complete their tasks.
 
-The role of project mentor is to provide guidance on your project proposal, and to make sure you are on the right track in your milestones and final presentation and report.
+The role of project mentor is to provide guidance on your project proposal, and to make sure you are on the right track in your milestones and final presentation and report. 
 
 Please fill up the [online form](https://forms.gle/XLcWeJNWDmm4FyKV8) of your project team members.
 
@@ -87,6 +87,15 @@ Please include a zip file or preferably a link to a Github repository with the c
 
 ### Grading
 The final report will be judged based on the clarity of the report, the relevance of the project to topics taught in PDC1, the technical soundness of the methodology and algorithms used, and the quality of discussion of the experimental results.
+
+#### Grading Rubrics
+|      | Need Improvment| Satisfactory| Good | Excellent   |
+|---|----|-------|-----|---------|
+| Dataset | No proper dataset is used. e.g. aggregated data, insufficient data | Using proper data set. However data only come from referenced base model. No third-party dataset nor self-generated dataset is used.| Using proper dataset. Third-party dataset or self-generate dataset is used. However the dataset are in-balanced or not preprocessed or not augmented to fit with the base model data set. Third-party dataset or self-generated dataset is only used in testing/cross-validation but not in training and vice versa.| Using proper dataset. Third-party dataset or self-generate dataset is used with a good balance w.r.t to the base model dataset. Third-party dataset or self-generated dataset are preprocessed and augmented to fit with the base model dataset.  Third-party dataset or self-generated dataset is used in training/cross-validation/testing |
+| Model Architecture | Improper use of model architecture. | Proper use of model architecture. However there are issues in applying the model architecture.  | Proper use of model architecture. There is no issues in applying the model architecture. However the model architecture is isomorphic to the the base model. |  Proper use of model architecture. There is no issues in applying the model architecture. There is approriate customization/extension to the base model to accomodate the training task. |
+| Model Tuning | No Tuning | There is minimum tuning with a limited set of hyper parameters. There is no good justification on how the tuning is performed. | There is some tuning with a reasonable set of hyper parameters. There is  good justification on how the tuning is performed. However the end model is not yet optimized w.r.t. human level performance | There is thorough process of tuning with a reasonable set of hyper parameters. There is sound justification on how the tuning is performed. The end model is well optimized w.r.t. human level performance |
+| Deployment  | No deployment | There is some level of attempt to deploy the model into the target platform. | The developed model is deployed to the target platform. However the process is crude or lack of automation. | The developed model is deployed into the target plaform systematically (or automatically) |
+| Report | Poorly written. Lack of content | Well written. The content is not well structured | Well written. The content is well structured but lack of depth and details of the core components. | Well written. The content is well structured with concised information without sacrificing details and depth. |
 
 ## Final Presentation
 
