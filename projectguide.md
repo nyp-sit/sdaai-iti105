@@ -115,7 +115,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 |15|  | **28-Jul-21**<br/>Project Dev / Consultation<br/>(MKK-TAW) ||
 |16|  | **4-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
 |17|  | **11-Aug-21**<br/>Milestone Submission<br/>(WCH-TAW) ||
-|18|**16-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-LCY)|**18-Aug-21**<br/>Project Dev / Consultation<br/>(MKK-TAW|**19-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN)|
+|18|**16-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-MKK)|**18-Aug-21**<br/>Project Dev / Consultation<br/>(LCY-WCH)|**19-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN)|
 |19|**23-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-LCY)|**25-Aug-21**<br/>Project Presentation<br/>(ALL)| |
 
 **Legends**
@@ -124,7 +124,6 @@ The project teams will be jointly supervised by a group of project mentors. The 
 - MKK - Mr. Mar Kheng Kok
 - LCY - Mr. Law Chee Yong
 - WCH - Mr. Wee Chee Hong
-- LCB - Mr. Lee Chit Boon
 - JN - Ms. Jasmine Ng
 - TAW - Mr. Tin Aung Win
 - LeeCY - Mr. Lee Ching Yuh
