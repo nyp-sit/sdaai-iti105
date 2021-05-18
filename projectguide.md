@@ -94,29 +94,28 @@ During final presentation, you will be jointly assessed by more than one supervi
 
 ## Project mentors
 
-The project teams will be grouped into either group A or group B, each jointly supervised by a group of assigned project mentors. The project mentors and the contact info are listed below.
+The project teams will be jointly supervised by a group of project mentors. The project mentors and the contact info are listed below.
 
 |Name|Email|Phone|Group|
 |---|---|---|---|
-|Mr. Mar Kheng Kok|mar_kheng_kok@nyp.edu.sg|6550-1647|Group A|
-|Mr. Lee Chit Boon|lee_chit_boon@nyp.edu.sg   |   6550-1630| Group A  |
-|Mr. Lee Ching Yuh |lee_ching_yuh@nyp.edu.sg   | 6550-1620 |  Group A |
-|Mr. Law Chee Yong| law_chee_yong@nyp.edu.sg  | 6550-1650  |  Group A |
-|Mr. Wee Chee Hong|wee_chee_hong@nyp.edu.sg   | 6550-1754 |  Group B |
-|Dr. Zhao Zhiqiang |zhao_zhiqiang@nyp.edu.sg  |6550-0921   | Group B  |
-|Ms. Jasmine Ng   |jasmine_ng@nyp.edu.sg   |6550-1763   | Group B  |
-|Mr. Tin Aung Win|tin_aung_win@nyp.edu.sg   | 6550-1752  |  Group B |
+|Mr. Mar Kheng Kok|mar_kheng_kok@nyp.edu.sg|6550-1647|
+|Mr. Lee Ching Yuh |lee_ching_yuh@nyp.edu.sg   | 6550-1620 |
+|Mr. Law Chee Yong| law_chee_yong@nyp.edu.sg  | 6550-1650 |
+|Dr. Zhao Zhiqiang |zhao_zhiqiang@nyp.edu.sg  |6550-0921 |
+|Mr. Wee Chee Hong|wee_chee_hong@nyp.edu.sg   | 6550-1754|
+|Ms. Jasmine Ng   |jasmine_ng@nyp.edu.sg   |6550-1763|
+|Mr. Tin Aung Win|tin_aung_win@nyp.edu.sg   | 6550-1752 |
 
 ## Project Schedule
 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
-|13|  | **14-Jul-21**<br/> Project Initiation /Discussion <br/>(ALL) ||
-|14|  | **21-Jul-21**<br/> Project Proposal Submission<br/>(LCB-WCH) ||
-|15|  | **28-Jul-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
-|16|  | **4-Aug-21**<br/>Project Dev / Consultation<br/>(LCB-TAW) ||
-|17|  | **11-Aug-21**<br/>Milestone Submission<br/>(MKK-JN) ||
-|18|**16-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-LCY)|**18-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-WCH)|**19-Aug-21**<br/>Project Dev / Consultation<br/>(MKK-TAW)|
+|13|  | **14-Jul-21**<br/> Project Initiation /Discussion <br/>(MKK-WCH) ||
+|14|  | **21-Jul-21**<br/> Project Proposal Submission<br/>(LeeCY-JN) ||
+|15|  | **28-Jul-21**<br/>Project Dev / Consultation<br/>(MKK-TAW) ||
+|16|  | **4-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
+|17|  | **11-Aug-21**<br/>Milestone Submission<br/>(WCH-TAW) ||
+|18|**16-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-LCY)|**18-Aug-21**<br/>Project Dev / Consultation<br/>(MKK-TAW|**19-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN)|
 |19|**23-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-LCY)|**25-Aug-21**<br/>Project Presentation<br/>(ALL)| |
 
 **Legends**
