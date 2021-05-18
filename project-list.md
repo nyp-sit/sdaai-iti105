@@ -16,8 +16,4 @@ The following is the list of problems you can work on (subject to changes):
 
     * With the growth of online media streaming services, the competition for market share has become more intense. Consumers are demanding good online experience. Instead of having to decide and choose what songs to play next, consumers should be presented with a recommended playlist that are most relevant to the consumer.
 
-5. Financial/Commerce
-    * As part of Smart Nation initiative, businesses and consumers alike are increasingly using digital payment for their daily transactions. Along with this transformation, there is a corresponding increase in financial frauds committed with the various e-payment systems. With the sheer volume of the transactions and increasingly sophisticated methods employed by the fraudsters, manual detection or static rule-based fraud detection system will no longer be sufficient.
-
-
 If you want to propose a *new problem* to work on, please approach your project mentors to seek their advice and approval.
