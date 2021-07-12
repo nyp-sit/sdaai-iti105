@@ -118,19 +118,19 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
-|13|  | **14-Jul-21**<br/> Project Initiation /Discussion <br/>(MKK-LeeCY) ||
-|14|  | **21-Jul-21**<br/> Project Proposal Submission<br/>(WCH-JN) ||
-|15|  | **28-Jul-21**<br/>Project Dev / Consultation<br/>(MKK-TAW) ||
-|16|  | **4-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN) ||
-|17|  | **11-Aug-21**<br/>Milestone Submission<br/>(WCH-TAW) ||
-|18|**16-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-MKK)|**18-Aug-21**<br/>Project Dev / Consultation<br/>(LCY-WCH)|**19-Aug-21**<br/>Project Dev / Consultation<br/>(LeeCY-JN)|
-|19|**23-Aug-21**<br/>Project Dev / Consultation<br/>(ZZQ-LCY)|**25-Aug-21**<br/>Project Presentation<br/>(ALL)| |
+|13|  | **14-Jul-21**<br/> Project Initiation /Discussion (F2F)<br/>(MKK-LeeCY) ||
+|14|  | **21-Jul-21**<br/> Project Proposal Submission (Zoom) <br/>(WCH-JN) ||
+|15|  | **28-Jul-21**<br/>Project Dev / Consultation (Zoom)<br/>(M KK-TAW) ||
+|16|  | **4-Aug-21**<br/>Project Dev / Consultation (Zoom)<br (Zoom) />(LeeCY-JN) ||
+|17|  | **11-Aug-21**<br/>Milestone Submiss (Zoom)ion (Zoom) <br/>(WCH-TAW) ||
+|18|**16-Aug-21**<br/>Project  (Zoom)Dev / Consultation (Zoom) <br/>(ZZQ-MKK)|**18-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(LCY-WCH)|**19-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(LeeCY-JN)|
+|19|**23-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(ZZQ-LCY)|**25-Aug-21**<br/>Project Presentation (F2F) <br/>(ALL)| |
 
-**Legends**
+**Legends* (Zoom)*
 
 - ALL - All tutors
 - MKK - Mr. Mar Kheng Kok
-- LCY - Mr. Law Chee Yong
+- LCY (F2F)  - Mr. Law Chee Yong
 - WCH - Mr. Wee Chee Hong
 - JN - Ms. Jasmine Ng
 - TAW - Mr. Tin Aung Win
