@@ -121,9 +121,9 @@ The project teams will be jointly supervised by a group of project mentors. The 
 |13|  | **14-Jul-21**<br/> Project Initiation /Discussion (F2F)<br/>(MKK-LeeCY) ||
 |14|  | **21-Jul-21**<br/> Project Proposal Submission (Zoom) <br/>(WCH-JN) ||
 |15|  | **28-Jul-21**<br/>Project Dev / Consultation (Zoom)<br/>(M KK-TAW) ||
-|16|  | **4-Aug-21**<br/>Project Dev / Consultation (Zoom)<br (Zoom) />(LeeCY-JN) ||
-|17|  | **11-Aug-21**<br/>Milestone Submiss (Zoom)ion (Zoom) <br/>(WCH-TAW) ||
-|18|**16-Aug-21**<br/>Project  (Zoom)Dev / Consultation (Zoom) <br/>(ZZQ-MKK)|**18-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(LCY-WCH)|**19-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(LeeCY-JN)|
+|16|  | **4-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(LeeCY-JN) ||
+|17|  | **11-Aug-21**<br/>Milestone Submission (Zoom) <br/>(WCH-TAW) ||
+|18|**16-Aug-21**<br/>Project Dev / Consultation (Zoom) <br/>(ZZQ-MKK)|**18-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(LCY-WCH)|**19-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(LeeCY-JN)|
 |19|**23-Aug-21**<br/>Project Dev / Consultation (Zoom)<br/>(ZZQ-LCY)|**25-Aug-21**<br/>Project Presentation (F2F) <br/>(ALL)| |
 
 **Legends* (Zoom)*
